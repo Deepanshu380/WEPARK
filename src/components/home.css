@@ -1,0 +1,12 @@
+.content {
+  border: 1px solid red;
+  margin: 0;
+}
+
+.navBar {
+  height: 105vh;
+  background-image: url("/public/park.jpg");
+  background-size: "cover";
+  background-position: center;
+  background-repeat: no-repeat;
+}
