@@ -11,6 +11,7 @@ import {
   Grid,
   Typography,
 } from "@mui/material";
+import Navbar from './Navbar';
 
 export const Linesdata = () => {
     const path = useParams();
@@ -18,6 +19,7 @@ export const Linesdata = () => {
 
   return (
     <>
+      <Navbar/>
       <Container style={{ marginTop: "4rem" }}>
         <Grid container spacing={4} justifyContent="center">
           {CardData.map((card) =>
@@ -27,7 +29,7 @@ export const Linesdata = () => {
                 xs={12}
                 md={4}
                 style={{ marginBottom: "1rem" }}
-                // onClick={() => handleDetails(card.pgName)}
+              
               >
                 <CardActionArea>
                   <Card>

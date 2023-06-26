@@ -10,8 +10,9 @@ import Members from "./Members";
 const About = () => {
   return (
     <>
+    
       <Container>
-        <Heading text="  WEPAЯK" align="center" margin="6rem" font="bold"  />
+        <Heading text="  WEPAЯK" align="center" margin="6rem" font="bold" />
         <AboutPara />
       </Container>
 
