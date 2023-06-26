@@ -6,7 +6,7 @@ import Container from "@mui/material/Container";
 import SuccessMessage from "./SuccessMessage";
 
 import LoginForm from "./LoginForm";
-
+import Navbar from "../Navbar"
 const LoginPage = (prop) => {
   const [alert, setAlert] = useState(null);
 
@@ -35,8 +35,9 @@ const LoginPage = (prop) => {
   };
   return (
     <>
+      <Navbar/>
       <SuccessMessage alert={alert} />
-      <Container component="main" maxWidth="xs" style={{ marginTop: "3rem" }}>
+      <Container component="main" maxWidth="xs" style={{ marginTop: "3rem" ,marginBottom:"1rem"}}>
         <Box
           style={{
             marginTop: 8,

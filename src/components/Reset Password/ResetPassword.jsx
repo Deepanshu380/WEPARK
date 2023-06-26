@@ -2,19 +2,21 @@ import React from "react";
 import { Box, Container, CssBaseline, Typography } from "@material-ui/core";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import ResetForm from "./ResetForm";
-
+import Navbar from "../Navbar";
 const defaultTheme = createTheme();
 
 const ResetPassword = (prop) => {
   return (
     <>
+      <Navbar/>
       <ThemeProvider theme={defaultTheme}>
-        <Container component="main" maxWidth="xs" style={{ marginTop: "3rem" }}>
+        <Container component="main" maxWidth="xs" style={{ marginBottom:"1rem",marginTop: "3rem" }}>
           <CssBaseline />
 
           <Box
             style={{
-              marginTop: 8,
+              marginBottom:"1rem",
+              marginTop: 5,
               display: "flex",
               flexDirection: "column",
               alignItems: "center",

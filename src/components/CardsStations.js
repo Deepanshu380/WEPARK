@@ -1,4 +1,5 @@
 let CardData = [
+  // RED LINE
   {
     stationName: "Shaheed Sthal",
     uniqueId: "1",
@@ -328,6 +329,322 @@ let CardData = [
     address:
       "Bhagwan Mahavir Marg, Varun Kunj, Rithala, Rohini, New Delhi, Delhi 110085",
     image: "https://yometro.com/images/station/rithala-metro-station.jpg",
+  },
+
+
+  //YELLOW LINE
+
+  {
+    stationName: "Rohini Sec-18, 19",
+    uniqueId: "21",
+    line: "Yellow",
+    agencyName: "	M/s. Ajay Kumar",
+    contactNumber: "9810035926",
+    plusCodes: "P4QQ+9W Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Metro Station-Rohini Sector 18, Block E, Sector 18, Rohini, Delhi, 110089",
+    image: "https://yometro.com/images/station/rohini-sector-18-19-metro-station.jpg",
+},
+{
+    stationName: "Haiderpur Badli Mor",
+    uniqueId: "22",
+    line: "Yellow",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.",
+    contactNumber: "9810109914",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"P4HX+RGC, Max Wali Rd, C and D Block, Shalimar Place Site, Shalimar Bagh, Delhi, 110088",
+    image: "https://yometro.com/images/station/haiderpur-badli-mor-metro-station.jpg",
+},
+  {
+    stationName: "Jahangirpuri",
+    uniqueId: "23",
+    line: "Yellow",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.",
+    contactNumber: "9810109914",
+    plusCodes: "P5G7+84 Jahangirpuri, New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Kohat Enclave Parking Lot, Bhalswa Jahangirpuri, Jahangirpuri, New Delhi, Delhi 110034",
+    image: "https://yometro.com/images/station/jahangirpuri-metro-station.jpg",
+  },
+  {
+    stationName: "Azadpur",
+    uniqueId: "24",
+    line: "Yellow",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.	",
+    contactNumber: "9810109914",
+    plusCodes: "G6H4+37 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Press Enclave Marg, Saket, New Delhi, Delhi 110017",
+      
+    image: "https://yometro.com/images/station/azadpur-metro-station.jpg",
+  },
+  
+  {
+    stationName: "Guru Tegh Bahadur Nagar",
+    uniqueId: "25",
+    line: "Yellow",
+    agencyName: "Operated by DMRC",
+    contactNumber: "8800793125",
+    plusCodes: "M6X4+99 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"65, Ring Rd, Outram Lines, GTB Nagar, New Delhi, Delhi 110009",
+    image: "https://yometro.com/images/station/gtb-nagar-metro-station.jpg",
+  },
+  {
+    stationName: "Vishwa Vidyalaya",
+    uniqueId: "26",
+    line: "Yellow",
+    agencyName: "Operated by DMRC",
+    contactNumber: "8800793126",
+    plusCodes: "M6W7+3R New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"The Mall Rd, Banarsi Das Estate, Timarpur, New Delhi, Delhi 110007",
+    image: "https://yometro.com/images/station/vishwa-vidyalaya-metro-station.jpg",
+  },
+  {
+    stationName: "Kashmere Gate",
+    uniqueId: "27",
+    line: "Yellow",
+    agencyName: "Operated by DMRC.",
+    contactNumber: "9958986677",
+    plusCodes: "M68M+H8 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Metro station, Kashmere Gate, New Delhi, Delhi 110006",
+    image: "https://yometro.com/images/station/kashmere-gate-metro-station.jpg",
+  },{
+    stationName: "Patel Chowk",
+    uniqueId: "28",
+    line: "Yellow",
+    agencyName: "M/s. Jagtar Singh",
+    contactNumber: "9818572362",
+    plusCodes: "J6F7+62 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"J6F7+62P Patel Chowk, Janpath, Sansad Marg Area, New Delhi, Delhi 110001",
+    image: "https://yometro.com/images/station/patel-chowk-metro-station.jpg",
+  },{
+    stationName: "Hauzkhas",
+    uniqueId: "29",
+    line: "Yellow",
+    agencyName: "M/s. Rich Pal Singh",
+    contactNumber: "9891327777",
+    plusCodes: "G6V4+HF New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Jia Sarai, Gamal Abdel Nasser Marg, Block F, Deer Park, Hauz Khas, New Delhi, Delhi 110016",
+    image: "https://yometro.com/images/station/hauz-khas-metro-station.jpg",
+  },{
+    stationName: "Malviya Nagar",
+    uniqueId: "30",
+    line: "Yellow",
+    agencyName: "M/s. Richpal Singh & Co",
+    contactNumber: "9891327777",
+    plusCodes: "G6H4+37 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Press Enclave Marg, Saket, New Delhi, Delhi 110017",
+    image: "https://yometro.com/images/station/malviya-nagar-metro-station.jpg",
+  },{
+    stationName: "Qutab Minar",
+    uniqueId: "31",
+    line: "Yellow",
+    agencyName: "M/s. Sushil Kumar Singh",
+    contactNumber: "9350998661",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mittal Garden, Sainik Farm, New Delhi, Delhi 110016",
+    image: "https://yometro.com/images/station/qutub-minar-metro-station.jpg",
+  },{
+    stationName: "Saket",
+    uniqueId: "32",
+    line: "Yellow",
+    agencyName: "M/s. Rich Pal Singh",
+    contactNumber: "9891327777",
+    plusCodes: "G6C2+FV New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mehrauli - Badarpur Rd, Block A, DDA Flats, Saket, New Delhi, Delhi 110030",
+    image: "https://yometro.com/images/station/saket-metro-station.jpg",
+  },{
+    stationName: "Sultanpur",
+    uniqueId: "33",
+    line: "Yellow",
+    agencyName: "M/s. Consortium of  Rich Pal Singh & M/s Rich Pal Singh and Co.",
+    contactNumber: "9891327777",
+    plusCodes: "F5X6+MF New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mehrauli-Gurgaon Rd, Ghitorni, New Delhi, Delhi 110070",
+    image: "https://yometro.com/images/station/sultanpur-metro-station.jpg",
+  },{
+    stationName: "Ghitorni",
+    uniqueId: "34",
+    line: "Yellow",
+    agencyName: "M/s. Consortium of  Rich Pal Singh & M/s Rich Pal Singh and Co.	",
+    contactNumber: "9891327777",
+    plusCodes: "F4VX+GM New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Gadaipur, DLF Farms, New Delhi, Delhi 110030",
+    image: "https://yometro.com/images/station/ghitorni-metro-station.jpg",
+  },
+  {
+    stationName: "chattarpur",
+    uniqueId: "35",
+    line: "Yellow",
+    agencyName: "M/s. Consortium of  Rich Pal Singh & M/s Rich Pal Singh and Co.	",
+    contactNumber: "9891327777",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"G54G+P26, Metro Station Chhattarpur, Andheria Mor Village, Vasant Kunj, New Delhi, Delhi 110070",
+    image: "https://yometro.com/images/station/chhatarpur-metro-station.jpg",
+  },{
+    stationName: "Arjangarh",
+    uniqueId: "36",
+    line: "Yellow",
+    agencyName: "M/s. Consortium of  Rich Pal Singh & M/s Rich Pal Singh and Co.	",
+    contactNumber: "9891327777",
+    plusCodes: "F4JG+53 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Arjan Garh, Aya Nagar, New Delhi, Delhi 110047",
+    image: "https://yometro.com/images/station/arjan-garh-metro-station.jpg",
+  },{
+    stationName: "Guru Dronacharya",
+    uniqueId: "37",
+    line: "Yellow",
+    agencyName: "M/s. Rich Pal Singh",
+    contactNumber: "9891327777",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"NH 236, Sikanderpur, Sector 26, Gurugram, Haryana 122002",
+    image: "https://yometro.com/images/station/guru-dronacharya-metro-station.jpg",
+  },{
+    stationName: "Sikandarpur",
+    uniqueId: "38",
+    line: "Yellow",
+    agencyName: "M/s. Joginder Singh	",
+    contactNumber: "9910719234",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"F3JV+F8W, Block H, DLF Phase 1, Sector 26, Gurugram, Haryana 122002",
+    image: "https://yometro.com/images/station/sikandarpur-metro-station.jpg",
+  },
+  {
+    stationName: "MG Road",
+    uniqueId: "39",
+    line: "Yellow",
+    agencyName: "M/s. Joginder Singh	",
+    contactNumber: "9910719234",
+    plusCodes: "F3HJ+R2 Gurugram, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Maruti Housing Colony, Sector 25, Gurugram, Haryana 122022",
+    image: "https://yometro.com/images/station/mg-road-metro-station.jpg",
+  },
+  {
+    stationName: "IFFCO Chowk",
+    uniqueId: "40",
+    line: "Yellow",
+    agencyName: "M/s. Joginder Singh	",
+    contactNumber: "9910719234",
+    plusCodes: "F3CC+VX Gurugram, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Sector 29, Gurugram, Haryana 122002",
+    image: "https://yometro.com/images/station/iffco-chowk-metro-station.jpg",
   },
 ];
 
