@@ -18,12 +18,20 @@ const lines = () => {
               to={`/${lineName}/line`}
               style={{ textDecoration: "none", color: "black" }}
             >
-                    <CardActionArea>
-                        
-                <Card style={{ borderRadius:"1rem",backgroundColor:colorsData[index] }}>
+              <CardActionArea>
+                <Card
+                  style={{
+                    width:"7rem",
+                    borderRadius: "1rem",
+                    backgroundColor: colorsData[index],
+                  }}
+                >
                   <Container align="center">
-                                <SubwayOutlinedIcon fontSize="large" style={{ marginTop:"1rem"} } />
-                  <CardContent >{lineName} Line</CardContent>
+                    <SubwayOutlinedIcon
+                      fontSize="large"
+                      style={{ marginTop: "1rem" }}
+                    />
+                    <CardContent style={{align:"center"}}>{lineName} Line</CardContent>
                   </Container>
                 </Card>
               </CardActionArea>
