@@ -1148,6 +1148,161 @@ let CardData = [
     image: "",
   },
  
+  //GREEN
+
+  {
+    stationName: "Punjabi Bagh  ",
+    uniqueId: "71",
+    line: "Green",
+    agencyName: "M/s. Manpreet Singh & Co.  ",
+    contactNumber: "9810187157",
+    plusCodes: "M4FW+59 Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Rohtak Rd, Railway Colony, East Punjabi Bagh, Punjabi Bagh, Delhi, 110026",
+    image: "https://yometro.com/images/station/punjabi-bagh-metro-station.jpg",
+},{
+    stationName: "Madipur",
+    uniqueId: "72",
+    line: "Green",
+    agencyName: "M/s. Manpreet Singh & Co.  ",
+    contactNumber: "9810187157",
+    plusCodes: "M4G9+GV Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Madipur JJ Colony, Madhuban Enclave, Paschim Vihar, Delhi, 110063",
+    image: "https://yometro.com/images/station/madipur-metro-station.jpg",
+},{
+    stationName: "Peeragarhi",
+    uniqueId: "73",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "M3HV+V4 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Rohtak Rd, Peera Garhi, Peeragarhi Village, Paschim Vihar, New Delhi, Delhi 110087",
+    image: "https://yometro.com/images/station/peera-garhi-metro-station.jpg",
+},{
+    stationName: "Paschim Vihar East  ",
+    uniqueId: "74",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "M4G6+WX New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Rohtak Rd, Shiva Enclave, Paschim Vihar, New Delhi, Delhi 110063",
+    image: "https://yometro.com/images/station/paschim-vihar-east-metro-station.jpg",
+},{
+    stationName: "Udyog Nagar",
+    uniqueId: "75",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "M3JJ+C8 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Rohtak Rd, Block A, Jwalapuri, Paschim Vihar, New Delhi, Delhi 110041",
+    image: "https://yometro.com/images/station/udyog-nagar-metro-station.jpg",
+},{
+    stationName: "Nangloi",
+    uniqueId: "76",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "M3J7+WW New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Kirari Extension 2, JJ Colony No 1, Nangloi, New Delhi, Delhi 110041",
+    image: "https://yometro.com/images/station/nangloi-metro-station.jpg",
+},{
+    stationName: "Mundka",
+    uniqueId: "77",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "M2JJ+X4 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"NH 10, West Cabin Block, Mundka, New Delhi, Delhi 110041",
+    image: "https://yometro.com/images/station/mundka-metro-station.jpg",
+},{
+    stationName: "Tikri Kalan ",
+    uniqueId: "78",
+    line: "Green",
+    agencyName: "M/s. Lakhvinder Singh  ",
+    contactNumber: "9818572362",
+    plusCodes: "MXPG+QW Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Netaji Subhash Vihar, Delhi, 110072",
+    image: "https://yometro.com/images/station/tikri-kalan-metro-station.jpg",
+},{
+    stationName: "Pandit Shree Ram Sharma ",
+    uniqueId: "79",
+    line: "Green",
+    agencyName: "M/s. Sanjeev Kumar ",
+    contactNumber: "9899718712",
+    plusCodes: "MXQ2+MF Bahadurgarh, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"MIE Part-B, Bahadurgarh, Haryana 124507",
+    image: "https://yometro.com/images/station/pandit-shree-ram-sharma-metro-station.jpg",
+},{
+    stationName: "Brig. Hoshiar Singh City Park ",
+    uniqueId: "80",
+    line: "Green",
+    agencyName: "M/s. Sanjeev Kumar ",
+    contactNumber: "9899718712",
+    plusCodes: "MWW9+XP Bahadurgarh, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Old Industrial Area, Bahadurgarh, Haryana 124507",
+    image: "https://yometro.com/images/station/brigadier-hoshiyar-singh-metro-station.jpg",
+  },
+  
+  
 ];
 
 
