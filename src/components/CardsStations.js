@@ -1301,8 +1301,401 @@ let CardData = [
     address:"Old Industrial Area, Bahadurgarh, Haryana 124507",
     image: "https://yometro.com/images/station/brigadier-hoshiyar-singh-metro-station.jpg",
   },
+
+  {
+    stationName: "Lajpat Nagar  ",
+    uniqueId: "81",
+    line: "Violet",
+    agencyName: "M/s. Ajay Kumar  ",
+    contactNumber: "9810035926",
+    plusCodes: "H6CP+6H New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Lala Lajpat Rai Rd, Block A, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    image: "https://yometro.com/images/station/lajpat-nagar-metro-station.jpg",
+},{
+    stationName: "Moolchand",
+    uniqueId: "82",
+    line: "Violet",
+    agencyName: "M/s. Ajay Kumar  ",
+    contactNumber: "9810035926",
+    plusCodes: "H67M+JM New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Lala Lajpat Rai Marg, Vikram Vihar, Lajpat Nagar IV, Lajpat Nagar, New Delhi, Delhi 110048",
+    image: "https://yometro.com/images/station/moolchand-metro-station.jpg",
+},{
+    stationName: "Harkesh Nagar Okhala  ",
+    uniqueId: "83",
+    line: "Violet",
+    agencyName: "M/s. V Inspirer Facility Management Pvt. Ltd.  ",
+    contactNumber: "9910803493",
+    plusCodes: "G7VG+52 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    image: "https://yometro.com/images/station/harkesh-nagar-metro-station.jpg",
+},{
+    stationName: "Govindpuri",
+    uniqueId: "84",
+    line: "Violet",
+    agencyName: "M/s. Ajay Kumar  ",
+    contactNumber: "9810035926",
+    plusCodes: "G7V7+QP New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Ma Anandmayee Marg, NSIC Estate, Balaji Estate, Kalkaji, New Delhi, Delhi 110019",
+    image: "https://yometro.com/images/station/govind-puri-metro-station.jpg",
+},{
+    stationName: "Jasola Apollo ",
+    uniqueId: "85",
+    line: "Violet",
+    agencyName: "M/s. Ajay Kumar  ",
+    contactNumber: "9810035926",
+    plusCodes: "G7QM+78 New Delhi, DelhiG7QM+78 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Pedestrian Opas, Jasola, New Delhi, Delhi 110025",
+    image: "https://yometro.com/images/station/jasola-apollo-metro-station.jpg",
+},{
+    stationName: "Sarita Vihar  ",
+    uniqueId: "86",
+    line: "Violet",
+    agencyName: "M/s. Milestone Security & Placement Services ",
+    contactNumber: "9990053233",
+    plusCodes: "G7HQ+F7 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Pocket C, Saidabad, New Delhi, Delhi 110076",
+    image: "",
+},{
+    stationName: "Mohan Estate  ",
+    uniqueId: "87",
+    line: "Violet",
+    agencyName: "M/s. Milestone Security & Placement Services ",
+    contactNumber: "9990053233",
+    plusCodes: "G79V+RR New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Block B, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110076",
+    image: "https://yometro.com/images/station/mohan-estate-metro-station.jpg",
+},{
+    stationName: "Badarpur Border ",
+    uniqueId: "88",
+    line: "Violet",
+    agencyName: "M/s. Dhiraj Gupta  ",
+    contactNumber: "9811115398",
+    plusCodes: "F8V3+85 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Block B, Block E, Mohan Cooperative Industrial Estate, Badarpur, New Delhi, Delhi 110044",
+    image: "https://yometro.com/images/station/badarpur-metro-station.jpg",
+},{
+    stationName: "Sarai",
+    uniqueId: "89",
+    line: "Violet",
+    agencyName: "M/s. Ashok Kumar Sharma  ",
+    contactNumber: "9868266382",
+    plusCodes: "F8H3+6X Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Sector 27D, Faridabad, Haryana 121003",
+    image: "https://yometro.com/images/station/sarai-metro-station.jpg",
+},{
+    stationName: "NHPC Chowk  ",
+    uniqueId: "90",
+    line: "Violet",
+    agencyName: "M/s. Dhiraj Gupta  ",
+    contactNumber: "9811115398",
+    plusCodes: "F854+3X Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Block A, DLF Industrial Area, Sector 32, Faridabad, Haryana 121003",
+    image: "https://yometro.com/images/station/nhpc-chowk-metro-station.jpg",
+},{
+    stationName: "Mewala Maharajpur ",
+    uniqueId: "91",
+    line: "Violet",
+    agencyName: "M/s. V Inspirer Facility Management Pvt. Ltd.  ",
+    contactNumber: "9910803493",
+    plusCodes: "C8X5+C6 Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mathura Rd, Sector 31, Faridabad, Haryana 121003",
+    image: "https://yometro.com/images/station/mewla-maharajpur-metro-station.jpg",
+},{
+    stationName: "Sector-28 ",
+    uniqueId: "92",
+    line: "Violet",
+    agencyName: "M/s. V Inspirer Facility Management Pvt. Ltd.  ",
+    contactNumber: "9910803493",
+    plusCodes: "C8Q5+6H Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mathura Rd, HBH Colony, Sector 28, Faridabad, Haryana 121008",
+    image: "https://yometro.com/images/station/sector-28-metro-station.jpg",
+},{
+    stationName: "Old Faridabad ",
+    uniqueId: "93",
+    line: "Violet",
+    agencyName: "M/s. Dhiraj Gupta  ",
+    contactNumber: "9811115398",
+    plusCodes: "C866+8J Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Sector 16A, Faridabad, Haryana 121002",
+    image: "https://yometro.com/images/station/faridabad-old-metro-station.jpg",
+},{
+    stationName: "Neelam Chowk Ajronda  ",
+    uniqueId: "94",
+    line: "Violet",
+    agencyName: "M/s. Milestone Security and Placement  ",
+    contactNumber: "9990053233",
+    plusCodes: "98X6+3W Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mathura Road, Sector 15A, Faridabad, Haryana 121013",
+    image: "https://yometro.com/images/station/neelam-chowk-ajronda-metro-station.jpg",
+},{
+    stationName: "Bata Chowk  ",
+    uniqueId: "95",
+    line: "Violet",
+    agencyName: "M/s. Milestone Security and Placement  ",
+    contactNumber: "9990053233",
+    plusCodes: "98P7+99 Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mathura Rd, Sector 12, Faridabad, Haryana 121007",
+    image: "https://yometro.com/images/station/bata-chowk-metro-station.jpg",
+},{
+    stationName: "Escorts Mujesar ",
+    uniqueId: "96",
+    line: "Violet",
+    agencyName: "M/s. Milestone Security and Placement  ",
+    contactNumber: "9990053233",
+    plusCodes: "98C7+3X Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mathura Rd, Sector 11, Pocket A, Sector 11, Faridabad, Haryana 121006",
+    image: "https://yometro.com/images/station/escorts-mujesar-metro-station.jpg",
+},{
+    stationName: "Raja Nahar Singh  ",
+    uniqueId: "97",
+    line: "Violet",
+    agencyName: "M/s. V Inspirer Facility Management Pvt. Ltd.  ",
+    contactNumber: "9910803493",
+    plusCodes: "88Q8+WH Faridabad, Haryana",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Ballabhgarh, Faridabad, Haryana 121004",
+    image: "https://yometro.com/images/station/raja-nahar-singh-ballabhgarh-metro-station.jpg",
+},{
+    stationName: "Majlispark",
+    uniqueId: "98",
+    line: "Pink",
+    agencyName: "M/s. Dhiraj Gupta  ",
+    contactNumber: "9811115398",
+    plusCodes: "P5FJ+MR Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Block EE, Jahangirpuri, Delhi, 110033",
+    image: "https://yometro.com/images/station/majlis-park-metro-station.jpg",
+},{
+    stationName: "Mayapuri",
+    uniqueId: "99",
+    line: "Pink",
+    agencyName: "M/s. Surjeet ",
+    contactNumber: "999970553",
+    plusCodes: "J4PH+RV Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Block WH, Mayapuri Industrial Area Phase I, Mayapuri, Delhi, 110064",
+    image: "https://yometro.com/images/station/mayapuri-metro-station.jpg",
+},{
+    stationName: "Vinobapuri",
+    uniqueId: "100",
+    line: "Pink",
+    agencyName: "Operated by DMRC ",
+    contactNumber: "8448487765",
+    plusCodes: "H782+96 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Nehru Nagar, Lajpat Nagar, New Delhi, Delhi 110065",
+    image: "https://yometro.com/images/station/vinobapuri-metro-station.jpg",
+},{
+    stationName: "Jamia Milla Islamia ",
+    uniqueId: "101",
+    line: "Magenta",
+    agencyName: "M/s. Tara Singh  ",
+    contactNumber: "9213224865",
+    plusCodes: "H77P+5F New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Jamia Nagar, Okhla, New Delhi, Delhi 110025",
+    image: "https://yometro.com/images/station/jamia-millia-islamia-metro-station.jpg",
+},{
+    stationName: "Kalkaji Mandir  ",
+    uniqueId: "102",
+    line: "Magenta",
+    agencyName: "M/s. V Inspirer Facility Management Pvt. Ltd.  ",
+    contactNumber: "9910803493",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"H724+2MQ, Pedestrian Overpass, Nehru Pl, Nehru Place, New Delhi, Delhi 110019",
+    image: "https://yometro.com/images/station/kalkaji-mandir-metro-station.jpg",
+},{
+    stationName: "Jasola Vihar Shaheen Bagh ",
+    uniqueId: "103",
+    line: "Magenta",
+    agencyName: "Operated by DMRC ",
+    contactNumber: "9205682377",
+    plusCodes: "G7QM+78 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Pedestrian Opas, Jasola, New Delhi, Delhi 110025",
+    image: "",
+},{
+    stationName: "Vasant Vihar  ",
+    uniqueId: "104",
+    line: "Magenta",
+    agencyName: "M/s. Dhiraj Gupta  ",
+    contactNumber: "9811115398",
+    plusCodes: "H556+49 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"CGHS Colony, Vasant Vihar, New Delhi, Delhi 110057",
+    image: "https://yometro.com/images/station/vasant-vihar-metro-station.jpg",
+},{
+    stationName: "Dhaula Kuan ",
+    uniqueId: "105",
+    line: "Orange",
+    agencyName: "Operated by DMRC ",
+    contactNumber: "9205682377",
+    plusCodes: "H5R6+QM New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Dhaula Kuan Enclave I, Dhaula Kuan, New Delhi, Delhi 110010",
+    image: "https://yometro.com/images/station/dhaula-kuan-metro-station.jpg",
+},{
+    stationName: "Dwarka Sector-21  ",
+    uniqueId: "106",
+    line: "Orange",
+    agencyName: "Operated by DMRC ",
+    contactNumber: "9811115398",
+    plusCodes: "H325+V8 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Metro Station-Dwarka Sector 21, Sector 21, Dwarka, New Delhi, Delhi 110077",
+    image: "",
+},
+
   
-  
+
 ];
 
 
