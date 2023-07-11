@@ -646,6 +646,508 @@ let CardData = [
     address:"Sector 29, Gurugram, Haryana 122002",
     image: "https://yometro.com/images/station/iffco-chowk-metro-station.jpg",
   },
+  {
+    stationName: "Noida City Centre",
+    uniqueId: "40",
+    line: "Blue",
+    agencyName: "Operated by DMRC",
+    contactNumber: "8800793155",
+    plusCodes: "H9F4+VC Noida, Uttar Pradesh",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Sector 39A, Sector 32, Noida, Uttar Pradesh 201303",
+    image: "https://yometro.com/images/station/noida-city-centre-metro-station.jpg",
+  },
+{
+    stationName: "Botanical Garden",
+    uniqueId: "41",
+    line: "Blue",
+    agencyName: "Operated by DMRC",
+    contactNumber: "9205682374",
+    plusCodes: "H87M+JP Noida, Uttar Pradesh",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Captain Vijyant Thapar Marg, Sector 38, Noida, Uttar Pradesh 201301",
+    image: "https://yometro.com/images/station/botanical-garden-metro-station.jpg",
+  },
+{
+    stationName: "Mayur Vihar Extension",
+    uniqueId: "42",
+    line: "Blue",
+    agencyName: "M/s. Sushil Kumar Singh",
+    contactNumber: "9350998661",
+    plusCodes: "H7VV+MV New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mayur Vihar, New Delhi, Delhi 110091",
+    image: "",
+  },
+{
+    stationName: "Mayur Vihar 1",
+    uniqueId: "43",
+    line: "Blue",
+    agencyName: "M/s. Dhiraj Gupta",
+    contactNumber: "9811115398",
+    plusCodes: "",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Khudi Ram Bose Marg, Mayur Vihar Phase 1 Extension, Pandav Nagar, New Delhi, Delhi 110091",
+    image: "",
+  },
+{
+    stationName: "Akshardham",
+    uniqueId: "44",
+    line: "Blue",
+    agencyName: "M/s. Ajay Kumar",
+    contactNumber: "9810035926",
+    plusCodes: "J79H+5Q New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Noida Link Rd, Ganesh Nagar, New Delhi, Delhi 110092",
+    image: "https://yometro.com/images/station/akshardham-metro-station.jpg",
+},{
+    stationName: "Yamuna Bank",
+    uniqueId: "45",
+    line: "Blue",
+    agencyName: "M/s. Ajay Kumar",
+    contactNumber: "9810035926",
+    plusCodes: "J7F9+9G New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Metro Station Yamuna Bank, Yamuna Bank, New Delhi, Delhi 110092",
+    image: "https://yometro.com/images/station/yamuna-bank-metro-station.jpg",
+},{
+    stationName: "Indraprastha",
+    uniqueId: "46",
+    line: "Blue",
+    agencyName: "M/s. Surjeet",
+    contactNumber: "999970553",
+    plusCodes: "J6CX+6X New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Mahatma Gandhi Rd, Gas Turbine Power Station, IP Estate, New Delhi, Delhi 110002",
+    image: "https://yometro.com/images/station/indraprastha-metro-station.jpg",
+},{
+    stationName: "Supreme Court	",
+    uniqueId: "47",
+    line: "Blue",
+    agencyName: "M/s. Tara Singh	",
+    contactNumber: "9213224865",
+    plusCodes: "J6FV+75 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Appu Ghar, Pragati Maidan, New Delhi, Delhi 110001",
+    image: "https://yometro.com/images/station/pragati-maidan-metro-station.jpg",
+},{
+    stationName: "Ram Krishna Ashram Marg	",
+    uniqueId: "48",
+    line: "Blue",
+    agencyName: "M/s. Ajay Kumar	",
+    contactNumber: "9810035926",
+    plusCodes: "J6Q5+MC New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Bharat Nagar, Paharganj, New Delhi, Delhi 110055",
+    image: "https://yometro.com/images/station/ramakrishna-ashram-marg-metro-station.jpg",
+},{
+    stationName: "Rajendra Place",
+    uniqueId: "49",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793173",
+    plusCodes: "J5VH+27 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Uttam Singh Narula Marg, Rajinder Nagar, New Delhi, Delhi 110060",
+    image: "https://yometro.com/images/station/rajendra-place-metro-station.jpg",
+},{
+    stationName: "Shadipur",
+    uniqueId: "50",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793175",
+    plusCodes: "M525+J7 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Patel Rd, Block W, DTC Colony, Shadipur, New Delhi, Delhi 110008",
+    image: "https://yometro.com/images/station/shadipur-metro-station.jpg",
+},{
+    stationName: "Patel Nagar",
+    uniqueId: "51",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793174",
+    plusCodes: "J5W9+2P New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"22, Patel Rd, Block 2, West Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+    image: "https://yometro.com/images/station/patel-nagar-metro-station.jpg",
+},{
+    stationName: "Kirti Nagar",
+    uniqueId: "52",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793176",
+    plusCodes: "M542+79 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Karampura Flyover, Block 1, Kirti Nagar Industrial Area, Kirti Nagar, New Delhi, Delhi 110015",
+    image: "https://yometro.com/images/station/kirti-nagar-metro-station.jpg",
+},{
+    stationName: "Moti Nagar	",
+    uniqueId: "53",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793177",
+    plusCodes: "M45V+53 Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Najafgarh Rd, DLE Industrial Area, Kirti Nagar, Delhi, 110015",
+    image: "https://yometro.com/images/station/moti-nagar-metro-station.jpg",
+},{
+    stationName: "Ramesh Nagar	",
+    uniqueId: "54",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "M43J+3M New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Ramesh Nagar, C Block, Ramesh Nagar, New Delhi, Delhi 110015",
+    image: "https://yometro.com/images/station/ramesh-nagar-metro-station.jpg",
+},{
+    stationName: "Tagore Garden	",
+    uniqueId: "55",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "J4V7+G5 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Najafgarh Rd, Block BF, Rajouri Garden Extension, Rajouri Garden, New Delhi, Delhi 110027",
+    image: "https://yometro.com/images/station/tagore-garden-metro-station.jpg",
+},{
+    stationName: "Rajouri Garden	",
+    uniqueId: "56",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "J4XF+J3 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Najafgarh Rd, Shivaji Place, Vishal Enclave, Tagore Garden Extension, New Delhi, Delhi 110018",
+    image: "https://yometro.com/images/station/rajouri-garden-metro-station.jpg",
+},{
+    stationName: "Subhash Nagar	",
+    uniqueId: "57",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "J4R3+5X New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Najafgarh Rd, Meenakshi Garden, Ashok Nagar, New Delhi, Delhi 110018",
+    image: "",
+},{
+    stationName: "Tilak Nagar	",
+    uniqueId: "58",
+    line: "Blue",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.",
+    contactNumber: "9810109914",
+    plusCodes: "J3PW+JH New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Tilak Nagar, New Delhi, Delhi 110018",
+    image: "https://yometro.com/images/station/tilak-nagar-metro-station.jpg",
+},{
+    stationName: "Nawada",
+    uniqueId: "59",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "J2CW+33 Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Metro Station Nawada, Shivaji Marg, Block D, Mansa Ram Park, Uttam Nagar, Delhi, 110059",
+    image: "https://yometro.com/images/station/nawada-metro-station.jpg",
+},{
+    stationName: "Janakpuri East	",
+    uniqueId: "60",
+    line: "Blue",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.	",
+    contactNumber: "9810109914",
+    plusCodes: "J3MP+6M New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Nangli Jalib, Janakpuri, New Delhi, Delhi 110058",
+    image: "https://yometro.com/images/station/janakpuri-east-metro-station.jpg",
+},{
+    stationName: "Uttam Nagar East (LOT-I)	",
+    uniqueId: "61",
+    line: "Blue",
+    agencyName: "M/s. Kake Finvest Pvt. Ltd.	",
+    contactNumber: "8800793185",
+    plusCodes: "J3F8+W4 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"shish ram park A-62/3, Chatrapati, Shivaji Marg, Block D, JJ Colony, Uttam Nagar, New Delhi, Delhi 110059",
+    image: "https://yometro.com/images/station/uttam-nagar-east-metro-station.jpg",
+},{
+    stationName: "Uttam Nagar East (LOT-II)	",
+    uniqueId: "62",
+    line: "Blue",
+    agencyName: "Operated by DMRC",
+    contactNumber: "8800793185",
+    plusCodes: "J3F8+W4 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"shish ram park A-62/3, Chatrapati, Shivaji Marg, Block D, JJ Colony, Uttam Nagar, New Delhi, Delhi 110059",
+    image: "https://yometro.com/images/station/uttam-nagar-east-metro-station.jpg",
+},{
+    stationName: "Uttam Nagar West	",
+    uniqueId: "62",
+    line: "Blue",
+    agencyName: "Operated by DMRC",
+    contactNumber: "8800793186",
+    plusCodes: "J3C4+P8 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Najafgarh Road, Param Puri, Uttam Nagar, New Delhi, Delhi 110059",
+    image: "https://yometro.com/images/station/uttam-nagar-west-metro-station.jpg",
+},{
+    stationName: "Dwarka Mor",
+    uniqueId: "63",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793188",
+    plusCodes: "J29M+P8 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"B-Block, Nangli Dairy Extn. Ph-II, 110043, Dwaraka Marg, Bhagwati Garden, Baprola, New Delhi, Delhi 110066",
+    image: "https://yometro.com/images/station/dwarka-mor-metro-station.jpg",
+},{
+    stationName: "Dwarka",
+    uniqueId: "64",
+    line: "Blue",
+    agencyName: "Operated by DMRC.	",
+    contactNumber: "8800793189",
+    plusCodes: "J27F+X3 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Nand Vihar, Sector 16A, Dwarka, New Delhi, Delhi 110078",
+    image: "https://yometro.com/images/station/dwarka-metro-station.jpg",
+},{
+    stationName: "Dwarka Sector-14	",
+    uniqueId: "65",
+    line: "Blue",
+    agencyName: "M/s. Sushil Kumar Singh	",
+    contactNumber: "9350998661",
+    plusCodes: "J22G+V9 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Pocket 1, Sector 14 Dwarka, Dwarka, New Delhi, Delhi 110078",
+    image: "https://yometro.com/images/station/dwarka-sector-14-metro-station.jpg",
+},{
+    stationName: "Dwarka Sec-11	",
+    uniqueId: "66",
+    line: "Blue",
+    agencyName: "M/s. MAAC International Facility Management Private Limited.	",
+    contactNumber: "9958986677",
+    plusCodes: "H2PX+HQ Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Road Number 203, Pocket 3, Sector 11 Dwarka, Dwarka, New Delhi, Delhi 110075",
+    image: "https://yometro.com/images/station/dwarka-sector-11-metro-station.jpg",
+},{
+    stationName: "Dwarka Sector-9",
+    uniqueId: "67",
+    line: "Blue",
+    agencyName: "M/s. Manpreet Singh & Co.	",
+    contactNumber: "9810187157",
+    plusCodes: "H3F8+P4 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Dwarka Sector 9, Dwarka, New Delhi, Delhi 110075",
+    image: "https://yometro.com/images/station/dwarka-sector-9-metro-station.jpg",
+},{
+    stationName: "Karkardooma",
+    uniqueId: "67",
+    line: "Blue",
+    agencyName: "M/s. Hindustan Trading Co.	",
+    contactNumber: "9891014005",
+    plusCodes: "J8X4+96 New Delhi, Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Bhartendu Harish Chandra Marg, Arya Nagar, Karkardooma, Anand Vihar, New Delhi, Delhi 110092",
+    image: "https://yometro.com/images/station/karkarduma-metro-station.jpg",
+},{
+    stationName: "Kaushambi",
+    uniqueId: "68",
+    line: "Blue",
+    agencyName: "M/s. Hindustan Trading Co.	",
+    contactNumber: "9891014005",
+    plusCodes: "J8WF+5P Ghaziabad, Uttar Pradesh",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Kaushambi, Ghaziabad, Uttar Pradesh 201010",
+    image: "https://yometro.com/images/station/kaushambi-metro-station.jpg",
+},{
+    stationName: "Vaishali",
+    uniqueId: "69",
+    line: "Blue",
+    agencyName: "M/s. Tara Singh",
+    contactNumber: "9213224865",
+    plusCodes: "J8XQ+WV Ghaziabad, Uttar Pradesh",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"Madan Mohan Malviya Marg, Gaur Ganga 2, Phase 1, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    image: "https://yometro.com/images/station/vaishali-metro-station.jpg",
+  },
+  {
+    stationName: "Najafgarh",
+    uniqueId: "70",
+    line: "Grey",
+    agencyName: "M/s. Ashok Kumar Sharma	",
+    contactNumber: "9868266382",
+    plusCodes: "JX6P+XJ Delhi",
+
+    TypesofVehicles: [
+      "Cars/SUV",
+      "Two Wheelers (Scooter, Motorbike) Parking",
+      "Cycle",
+    ],
+    address:"najafgarh metro gate 2, New Delhi, 110043",
+    image: "",
+  },
+ 
 ];
 
 
